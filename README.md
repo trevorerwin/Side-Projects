@@ -1,5 +1,5 @@
 # Side-Projects
-Collection of side projects created from Brad Travery's "Modern Javascript from the Beginning" Course
+Collection of side projects created from Brad Traversy's "Modern Javascript from the Beginning" Course
 
 Technologies used
   1. HTML
